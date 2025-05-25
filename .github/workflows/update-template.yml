@@ -21,6 +21,7 @@ on:
   repository_dispatch:
     types: [update_template]
   workflow_dispatch:
+
 jobs:
   release:
     name: Build
