@@ -16,7 +16,7 @@
     "timeMonth": 320,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2025-07-02": 108,
+      "2025-07-02": 390,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -80,7 +80,7 @@
     "url": "https://saasbase-soketi.fly.dev",
     "icon": "https://icons.duckduckgo.com/ip3/saasbase-soketi.fly.dev.ico",
     "slug": "soketi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
